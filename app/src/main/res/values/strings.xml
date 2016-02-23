@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ahLosCabos</string>
+    <string name="nombre_splash">Pantalla de inicio</string>
+    <string name="create_directory">Create directory</string>
+    <string name="open_directory">Open directory</string>
+    <string name="selected_directory">Selected one directory</string>
 </resources>
